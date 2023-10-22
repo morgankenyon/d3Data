@@ -1,0 +1,65 @@
+<html>
+    <body>
+        <textarea id="budget-transform" rows="30" cols="100"></textarea>
+        <button onClick="transform()">Transform</button>
+        <button onClick="clearOutput()">Clear</button>
+        <div id="output"></div>
+        <script>
+            function clearOutput()
+            {
+                var output = document.getElementById("output");
+                output.innerHTML = "";
+            }
+
+            function appendToOutput(newLine)
+            {
+                var output = document.getElementById("output");
+                var p = document.createElement("p");
+                p.innerText  = newLine;
+                output.appendChild(p);
+            }
+
+            function transform() {
+                console.log("transforming");
+                var value = document.getElementById("budget-transform").value
+                
+                console.log(value);
+
+                var lines = value.split(/\r?\n|\r|\n/g);
+
+                console.log(lines);
+
+                var currentString = "";
+                var currentYear = "";
+                var type = "";
+                for (let i = 0; i < lines.length; i++) {
+                    var line = lines[i].trim();
+
+                    if (line.length === 0)
+                    {
+                        continue;
+                    }
+
+                    if (line.startsWith("20") && line.indexOf(",") === -1)
+                    {
+                        if (currentYear.length > 0)
+                        {
+                            appendToOutput(currentString);
+                            console.log(currentString);
+                            currentString = "";
+                        }
+                        currentYear = line.split(" ")[0];
+                        type = line.split(" ")[1].toLowerCase();
+                        currentString = currentYear + "," + type;
+                        continue;
+                    }
+
+                    currentString = currentString + "," + line.replaceAll(",", "");
+                }
+
+                appendToOutput(currentString);
+
+            }
+        </script>
+    </body>
+</html>
