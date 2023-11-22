@@ -1,29 +1,29 @@
-fiscal_year,description,outstanding_balance,principal,interest,total
-2017,"Stadium Special Tax Revenue Bonds Series 2008",112185000,1035000,6046250,7081250
-2017,"Stadium Special Tax Revenue Bonds Series 2009",62820000,0,3019563,3019563
-2018,"Stadium Special Tax Revenue Bonds Series 2008",108010000,6800000,5821800,12621800
-2018,"Stadium Special Tax Revenue Bonds Series 2009",37825000, 4260000, 1769813, 6029813
-2019,"Special Tax Revenue Bonds, Series 2017",110200000,0,5323350,5323350
-2019,"Special Tax Revenue Bonds, Series 2018A",266080000,12594000,12594000
-2019,"Special Tax Revenue Bonds, Series 2018B",23250000,250000,912803,1162803
-2019,"Special Tax Revenue Bonds, Series 2018C",171095000,0,8554750,8554750
-2020,"Venue Special Tax Revenue Bonds Series 2017",110200000,2030000,5292900,7322900
-2020,"Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
-2020,"Venue Special Tax Revenue Bonds Series 2018B",23000000,0,909943,909943
-2020,"Venue Special Tax Revenue Bonds Series 2018C",171095000,0,8554750,8554750
-2021,"Venue Special Tax Revenue Bonds Series 2017",108170000,3160000,5215050,8375050
-2021,"Venue Special Tax Revenue Bonds Series 2018A",266080000,12594000,12594000
-2021,"Venue Special Tax Revenue Bonds Series 2018B",23000000,350000,904856,1254856
-2021,"Venue Special Tax Revenue Bonds Series 2018C",171095000,0,8554750,8554750
-2022,"Venue Special Tax Revenue Bonds Series 2017",105010000,3800000,5091650,8891650
-2022,"Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12549000
-2022,"Venue Special Tax Revenue Bonds Series 2018B",22650000,820000,886924,1706924
-2022,"Venue Special Tax Revenue Bonds Series 2018C",130590000,195000,6524625,6719625
-2023,"Venue Special Tax Revenue Bonds Series 2017",101210000,4485000,4925950,9410950
-2023,"Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
-2023,"Venue Special Tax Revenue Bonds Series 2018B",21830000,845000,860208,1705208
-2023,"Venue Special Tax Revenue Bonds Series 2018C",130395000,635000,6503875,7138875
-2024,"Venue Special Tax Revenue Bonds Series 2017",96725000,5700000,4693750,10393750
-2024,"Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
-2024,"Venue Special Tax Revenue Bonds Series 2018B",20985000,875000,831264,1706264
-2024,"Venue Special Tax Revenue Bonds Series 2018C",93595000,575000,4665375,5240375
+fiscal_year,bond_identifier,description,outstanding_balance,principal,interest,total
+2017,"2008","Stadium Special Tax Revenue Bonds Series 2008",112185000,1035000,6046250,7081250
+2017,"2009","Stadium Special Tax Revenue Bonds Series 2009",62820000,0,3019563,3019563
+2018,"2008","Stadium Special Tax Revenue Bonds Series 2008",108010000,6800000,5821800,12621800
+2018,"2009","Stadium Special Tax Revenue Bonds Series 2009",37825000, 4260000, 1769813, 6029813
+2019,"2017","Special Tax Revenue Bonds, Series 2017",110200000,0,5323350,5323350
+2019,"2018A","Special Tax Revenue Bonds, Series 2018A",266080000,0,12594000,12594000
+2019,"2018B","Special Tax Revenue Bonds, Series 2018B",23250000,250000,912803,1162803
+2019,"2018C","Special Tax Revenue Bonds, Series 2018C",171095000,0,8554750,8554750
+2020,"2017","Venue Special Tax Revenue Bonds Series 2017",110200000,2030000,5292900,7322900
+2020,"2018A","Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
+2020,"2018B","Venue Special Tax Revenue Bonds Series 2018B",23000000,0,909943,909943
+2020,"2018C","Venue Special Tax Revenue Bonds Series 2018C",171095000,0,8554750,8554750
+2021,"2017","Venue Special Tax Revenue Bonds Series 2017",108170000,3160000,5215050,8375050
+2021,"2018A","Venue Special Tax Revenue Bonds Series 2018A",266080000,12594000,12594000
+2021,"2018B","Venue Special Tax Revenue Bonds Series 2018B",23000000,350000,904856,1254856
+2021,"2018C","Venue Special Tax Revenue Bonds Series 2018C",171095000,0,8554750,8554750
+2022,"2017","Venue Special Tax Revenue Bonds Series 2017",105010000,3800000,5091650,8891650
+2022,"2018A","Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12549000
+2022,"2018B","Venue Special Tax Revenue Bonds Series 2018B",22650000,820000,886924,1706924
+2022,"2018C","Venue Special Tax Revenue Bonds Series 2018C",130590000,195000,6524625,6719625
+2023,"2017","Venue Special Tax Revenue Bonds Series 2017",101210000,4485000,4925950,9410950
+2023,"2018A","Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
+2023,"2018B","Venue Special Tax Revenue Bonds Series 2018B",21830000,845000,860208,1705208
+2023,"2018C","Venue Special Tax Revenue Bonds Series 2018C",130395000,635000,6503875,7138875
+2024,"2017","Venue Special Tax Revenue Bonds Series 2017",96725000,5700000,4693750,10393750
+2024,"2018A","Venue Special Tax Revenue Bonds Series 2018A",266080000,0,12594000,12594000
+2024,"2018B","Venue Special Tax Revenue Bonds Series 2018B",20985000,875000,831264,1706264
+2024,"2018C","Venue Special Tax Revenue Bonds Series 2018C",93595000,575000,4665375,5240375
